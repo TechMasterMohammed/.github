@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>الفاتحة</title>
+</head>
+<body dir="rtl">
+ <center>
+<h2 align="center">القران الكريم</h2>
+<hr>
+<img src="/4178822acbe98c6c40a3318dbac57c5c.jpg" alt="" width="300" height="200">
+<hr>
+<font size="5" color="red">سورة الفاتحة</font>
+<h4 >بسم الله الرحمن الرحيم </h4>
+<h4 >بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+الرَّحْمَٰنِ الرَّحِيمِ
+مَالِكِ يَوْمِ الدِّينِ
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ
+غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+آمِين
+</h4>
+<h4 >صدق الله العظيم</h4>
+
+
+<audio controls>
+<source src="/audio/hoho.mp3"type ="audio/mpeg">
+ <source src="/audio/hoho.wav"type ="audio/wav">
+ <source src="/audio/hoho.ogg"type ="audio/ogg">
+
+ </audio>
+  <hr>
+ <h4 >[DEVLOPER  ]  <hr>                             <font size ="4" color="red">MH'D</font>  </h4>
+</body>
+</html>
